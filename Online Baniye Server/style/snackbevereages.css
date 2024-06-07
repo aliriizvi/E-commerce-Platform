@@ -1,0 +1,11 @@
+tr{
+    background-color: aquamarine;
+}
+td{
+    color: rgb(247, 30, 6);
+}
+table{
+    background-color: brown;
+    padding: 10px;
+    border: 10px;
+}
